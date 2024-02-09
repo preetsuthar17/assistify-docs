@@ -1,5 +1,7 @@
 # Getting Started with Assistify AI Dashboard
 
+If you're new user of Assistify, this documentation is perfect guide for you to get started.
+
 ## Creating an Account
 
 To begin using the Assistify AI Dashboard, follow these steps:

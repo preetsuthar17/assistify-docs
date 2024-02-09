@@ -1,6 +1,6 @@
 <!-- Entity settings -->
 
-## Entity Settings Documentation
+# Entity Settings Documentation
 
 Welcome to the Entity Settings Documentation, a guide to managing and customizing entity configurations. This documentation outlines the features and functionalities available within the Entity Settings page, including editing the Name, Slug, Platform, and Preamble Type of entities.
 

@@ -83,11 +83,9 @@ You can reach all of our teams members in our [discord server](https://dsc.gg/as
 
 ## Admins
 <VPTeamMembers size="small" :members="members" />
----
 
 ## Digital Managers
 <VPTeamMembers size="small" :members="members2" />
----
 
 ## Administrative Managers
 <VPTeamMembers size="small" :members="members3" />
