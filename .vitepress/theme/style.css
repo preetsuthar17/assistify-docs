@@ -138,9 +138,8 @@
 }
 
 img{
-  border-radius: 12px;
+  border-radius: 4px;
   margin: 1rem 0;
-  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.382);
 }
 
 h1{
