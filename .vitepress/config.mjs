@@ -25,7 +25,7 @@ export default defineConfig({
           { text: 'Create Account & Login', link: '/docs/guide/getting-started' },
           { text: 'Edting User Settings', link: '/docs/guide/modifying-user-settings' },
           { text: 'Creating Entity', link: '/docs/guide/creating-new-entity' },
-          { text: 'Entity Navigation', link: '/docs/guide/overview-of-entity-navigation' },
+          { text: 'Entity Navigation', link: '/docs/guide/overview-of-entity-navigation-page' },
           { text: 'Uploading & Embedding Files', link: '/docs/guide/uploading-and-embedding-files' },
           { text: 'Chat Page', link: '/docs/guide/chat-page' },
           { text: 'Get Started with Custom AI (workshop)', link: '/docs/guide/getting-started-with-workshop' },
