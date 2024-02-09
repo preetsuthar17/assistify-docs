@@ -5,8 +5,13 @@ export default defineConfig({
   title: "Assistify",
   description: "Official Documentation of Assistify",
   themeConfig: {
+    logo: { src: '/assistify-bg.webp', width: 28, height: 28 },
     search: {
       provider: 'local'
+    },
+    footer: {
+      message: 'Created with 💖 by Assistify Labs',
+      copyright: 'Copyright © 2023 - present | Assistify Labs'
     },
     editLink: {
       pattern: 'https://github.com/assistifylabs/assistify-labs/edit/main/docs/:path'
@@ -43,6 +48,15 @@ export default defineConfig({
           { text: 'First Devlog', link: '/devlogs/devlog' },
         ]
       },
+    ],
+    head: [
+      ['meta', { name: 'theme-color', content: '#5f67ee' }],
+      ['meta', { property: 'og:type', content: 'website' }],
+      ['meta', { property: 'og:locale', content: 'en' }],
+      ['meta', { property: 'og:title', content: 'Assistify | An AI to process your documents seamlessly.' }],
+      ['meta', { property: 'og:site_name', content: 'Assistify' }],
+      ['meta', { property: 'og:image', content: 'https://docs.assistifyai.org/assistify-bg.webp' }],
+      ['meta', { property: 'og:url', content: 'https://docs.assistifyai.org' }],
     ],
 
     lastUpdated: {
