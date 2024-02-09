@@ -49,11 +49,11 @@ export default defineConfig({
       text: 'Updated at',
       formatOptions: {
         dateStyle: 'full',
-        timeStyle: 'medium'
-      }
+      },
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/assistifylabs' }
+      { icon: 'github', link: 'https://github.com/assistifylabs' },
+      { icon: 'discord', link: 'https://dsc.gg/assistify' }
     ]
   }
 })
