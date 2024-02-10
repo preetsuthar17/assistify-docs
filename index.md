@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Check out Assistify AI
       link: https://assistifyai.org
+    - theme: brand
+      text: v1.0.0 🚀
+      link: /devlogs/v1.0.0-release
   image:
     src: /assistify-bg.webp
     alt: Assitify

@@ -19,7 +19,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Guide', link: '/docs/guide/getting-started' },
-      { text: 'Devlogs', link: '/devlogs/devlog' }
+      { text: 'Devlogs', link: '/devlogs/v1.0.0-release' }
     ],
 
     sidebar: [
@@ -44,7 +44,7 @@ export default defineConfig({
         text: 'Devlogs',
         collapsed: false,
         items: [
-          { text: 'First Devlog', link: '/devlogs/devlog' },
+          { text: 'v1.0.0 release (stable)', link: '/devlogs/v1.0.0-release' },
         ]
       },
     ],
